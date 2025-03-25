@@ -184,4 +184,4 @@ This repository serves as a personal record of my coding journey, a reference fo
 ---
 
 ## Contribution
-This is a personal project by Tuan Duc, an undergraduate student. 
+This is a personal project by Tuan Duc, an undergraduate student at the University of Illinois Chicago. 
