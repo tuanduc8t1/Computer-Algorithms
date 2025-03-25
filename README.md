@@ -158,17 +158,13 @@ This repository serves as a personal record of my coding journey, a reference fo
 | 39 | Combination Sum | Medium | [Link](https://leetcode.com/problems/combination-sum/) |
 | 46 | Permutations | Medium | [Link](https://leetcode.com/problems/permutations/) |
 
-### Design
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
-| 2073 | Time Needed to Buy Tickets | Easy | [Link](https://leetcode.com/problems/time-needed-to-buy-tickets/) |
-| 2526 | Find Consecutive Integers from a Data Stream | Medium | [Link](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) |
-
 ### Greedy
 | # | Title | Difficulty | Link |
 |---|-------|------------|------|
 | 649 | Dota2 Senate | Medium | [Link](https://leetcode.com/problems/dota2-senate/) |
 | 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) |
+| 2073 | Time Needed to Buy Tickets | Easy | [Link](https://leetcode.com/problems/time-needed-to-buy-tickets/) |
+| 2526 | Find Consecutive Integers from a Data Stream | Medium | [Link](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) |
 
 ### DataFrame (Pandas)
 | # | Title | Difficulty | Link |
