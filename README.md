@@ -184,7 +184,4 @@ This repository serves as a personal record of my coding journey, a reference fo
 ---
 
 ## Contribution
-This is a personal project
-
-## License
-This project is unlicensed
+This is a personal project by Tuan Duc, an undergraduate student. 
